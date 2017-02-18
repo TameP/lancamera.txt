@@ -1,4 +1,4 @@
-IP camera in a LAN <Privacy Policy>
+IP camera in a LAN < Privacy Policy >
 
 What data collected: This app captures frame images from the camera and records audio signals from the microphone.
 
